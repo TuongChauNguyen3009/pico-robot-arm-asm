@@ -1,0 +1,17 @@
+# CMake build output
+build/
+cmake-build-*/
+
+# Pico SDK artifacts
+*.elf
+*.elf.map
+*.bin
+*.hex
+*.uf2
+*.dis
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*:Zone.Identifier
